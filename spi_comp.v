@@ -22,7 +22,7 @@
 // full duplex, 
 // faster than UART, I2C 
 // taking dtf as data transfer signal
-// half duplex communication
+// full duplex communication
 /* 
 dtf can be 2 bit signal
 dtf = 2'b00 means no communication 
